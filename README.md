@@ -25,14 +25,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ceinaeiy&show_icons=true&theme=default" alt="GitHub stats" height="165" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="left"> <a href="https://instagram.com/ceinaeiy" target="_blank"> 
