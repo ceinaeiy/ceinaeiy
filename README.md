@@ -29,7 +29,6 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ceinaeiy&show_icons=true&theme=default" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceinaeiy" alt="streak stats" height="165" />
 </p>
 
 ---
