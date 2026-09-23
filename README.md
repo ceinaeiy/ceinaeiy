@@ -2,9 +2,9 @@
 <h3 align="center">A passionate developer who loves building things and solving problems</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/your-username?tab=followers">
-    <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=ceinaeiy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/ceinaeiy?tab=followers">
+    <img src="https://img.shields.io/github/followers/ceinaeiy?label=Followers&style=social" alt="followers" />
   </a>
 </p>
 
@@ -16,12 +16,11 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on **project name**
-- 🌱 I'm currently learning **skill / tech**
-- 👯 I'm looking to collaborate on **type of project**
-- 💬 Ask me about **your expertise**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **something fun about you**
+- 🔭 I'm currently working on **NaeiyLab**
+- 🌱 I'm currently learning **Python3**
+- 💬 Ask me about **AI Prompting**
+- 📫 How to reach me: **Ceinaeiy@gmail.com**
+- ⚡ Fun fact: **Fixxing 1 line code takes 12 hours**
 
 ---
 
@@ -36,12 +35,12 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username" alt="streak stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ceinaeiy&show_icons=true&theme=default" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceinaeiy" alt="streak stats" height="165" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceinaeiy&layout=compact" alt="top languages" />
 </p>
 
 ---
