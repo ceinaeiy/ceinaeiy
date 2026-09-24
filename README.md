@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on **NaeiyLab**
+- 🔭 I'm currently working on **NaeiyLab & Ceinaeiy Archive**
 - 🌱 I'm currently learning **Python3**
 - 💬 Ask me about **AI Prompting**
 - 📫 How to reach me: **ceinaeiy@gmail.com**
