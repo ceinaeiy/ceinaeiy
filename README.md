@@ -29,6 +29,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ceinaeiy&theme=radical&hide_border=true&background=1a1b27&ring=F76FA4&fire=F76FA4&currStreakLabel=F76FA4)
 
+---
+
 ### 🌐 Connect With Me
 
 <p align="left"> <a href="https://instagram.com/ceinaeiy" target="_blank"> 
