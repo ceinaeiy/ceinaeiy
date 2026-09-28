@@ -13,7 +13,7 @@
 - 🌱 I'm currently learning **Python3**
 - 💬 Ask me about **AI Prompting**
 - 📫 How to reach me: **ceinaeiy@gmail.com**
-- ⚡ Fun fact: **Fixxing 1 line code takes 12 hours**
+- ⚡ Fun fact: **1 + "1" = 11**
 
 ---
 
