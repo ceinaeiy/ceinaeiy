@@ -9,11 +9,11 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on **NaeiyLab & Ceinaeiy Archive**
+- 🔭 I'm currently working on **NaeiyLab**
 - 🌱 I'm currently learning **Python3**
 - 💬 Ask me about **AI Prompting**
 - 📫 How to reach me: **ceinaeiy@gmail.com**
-- ⚡ Fun fact: **1 + "1" = 11**
+- ⚡ Fun fact: **1 + "1" = 1**
 
 ---
 
@@ -35,7 +35,7 @@
 
 <p align="left"> <a href="https://instagram.com/ceinaeiy" target="_blank"> 
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> 
-  <a href="https://tiktok.com/@ceinpplg" target="_blank"> 
+  <a href="https://tiktok.com/@ceinaeiy" target="_blank"> 
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /> </a> 
   <a href="mailto:ceinaeiy@gmail.com"> 
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
